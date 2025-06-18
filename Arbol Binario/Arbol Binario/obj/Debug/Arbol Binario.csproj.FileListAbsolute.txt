@@ -1,0 +1,11 @@
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Mac\Home\Documents\Estructuras - C#\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe.config
