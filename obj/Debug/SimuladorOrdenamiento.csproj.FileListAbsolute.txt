@@ -1,0 +1,11 @@
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.csproj.AssemblyReference.cache
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.Form1.resources
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.Properties.Resources.resources
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.csproj.GenerateResource.cache
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.csproj.CoreCompileInputs.cache
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\bin\Debug\SimuladorOrdenamiento.exe.config
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\bin\Debug\SimuladorOrdenamiento.exe
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\bin\Debug\SimuladorOrdenamiento.pdb
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.exe
+C:\Users\JOSE POLANCO\source\repos\SimuladorOrdenamiento\obj\Debug\SimuladorOrdenamiento.pdb
